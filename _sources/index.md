@@ -41,7 +41,7 @@
 
 **ＮＴＴデータ**
 ^^^
-```{image} https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:NTT-Data-Logo.svg
+```{image} https://minnanosaiban.github.io/press_202411/_static/NTT-Data-Logo.svg
 :height: 100
 ```
 
@@ -58,7 +58,7 @@
 
 **ＥＮＥＯＳ**
 ^^^
-```{image} https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:ENEOS_logo.svg
+```{image} https://minnanosaiban.github.io/hotline/_static/logo.png
 :height: 100
 ```
 
