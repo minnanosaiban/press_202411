@@ -18,7 +18,7 @@
 ::::{card-carousel} 3
 
 :::{card}
-:margin: 3
+:margin: 2
 :class-body: text-left
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/mhlw.html
@@ -34,7 +34,7 @@
 :::
 
 :::{card}
-:margin: 3
+:margin: 2
 :class-body: text-left
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/nttdata.html
@@ -50,7 +50,7 @@
 :::
 
 :::{card}
-:margin: 3
+:margin: 2
 :class-body: text-left
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/eneos.html
