@@ -77,3 +77,4 @@
 
 
 ##
+[![Jupyter Book Badge](https://jupyterbook.org/_images/badge.svg)](https://jupyterbook.org)
