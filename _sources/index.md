@@ -19,7 +19,7 @@
 
 :::{card}
 :margin: 3
-:class-body: text-left
+:class-body: text-center
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/mhlw.html
 **厚生労働省**
@@ -35,7 +35,7 @@
 
 :::{card}
 :margin: 3
-:class-body: text-left
+:class-body: text-center
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/nttdata.html
 
@@ -52,17 +52,17 @@
 
 :::{card}
 :margin: 3
-:class-body: text-left
+:class-body: text-center
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/eneos.html
 
 **ＥＮＥＯＳ**
 ^^^
-```{image} https://minnanosaiban.github.io/hotline/_static/logo.png
+```{image} https://minnanosaiban.github.io/press_202411/_static/eneos_logo.png                   
 :height: 100
 ```
 
-ＥＮＥＯＳの社員が上司に相談しても解決できなかった業務上の問題を内部通報窓口に相談したところ、問題を海外子会社を使って隠蔽しました。
+ＥＮＥＯＳの社員が上司に相談しても解決できなかった業務上の問題を内部通報窓口に相談したところ、海外子会社を使って問題を隠蔽しました。
 +++
 詳しくはこちら {fas}`arrow-right`
 :::
