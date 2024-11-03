@@ -16,6 +16,7 @@
 リンク先に経緯等を記載しています。
 
 ::::{card-carousel} 3
+:class: no-scrollbar
 
 :::{card}
 :margin: 3
