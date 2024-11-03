@@ -22,7 +22,7 @@
 :::{grid-item-card}
 :link: mhlw
 :link-type: doc
-:class-header: bg-light
+:class-header: bg-light text-center
 
 ```{image} _static/mhlw_logo.png                   
 :width: 100px
@@ -37,7 +37,7 @@
 :::{grid-item-card}
 :link: nttdata
 :link-type: doc
-:class-header: bg-light
+:class-header: bg-light text-center
 
 ```{image} _static/nttdata_logo.png                   
 :width: 100px
@@ -52,7 +52,7 @@
 :::{grid-item-card}
 :link: eneos
 :link-type: doc
-:class-header: bg-light
+:class-header: bg-light text-center
 
 ```{image} _static/eneos_logo.png                   
 :width: 100px
