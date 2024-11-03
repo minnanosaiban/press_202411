@@ -28,7 +28,7 @@
 ```
 
 ^^^
-獨協医科大学埼玉医療センターでは、診療報酬の不正請求が行われています。この不正を厚生労働省にも通報しましたが、その対応については、依然として不透明です。 {fas}`arrow-right` [リンク](https://minnanosaiban.github.io/press_202411/mhlw.html)
+<span style="font-size:14px;">獨協医科大学埼玉医療センターでは、診療報酬の不正請求が行われています。この不正を厚生労働省にも通報しましたが、その対応については、依然として不透明です。</span> {fas}`arrow-right`　[リンク](https://minnanosaiban.github.io/press_202411/mhlw.html)
 :::
 
 :::{card}
@@ -42,7 +42,7 @@
 ```
 
 ^^^
-ＮＴＴデータの派遣社員がセクハラを受け、内部通報窓口を利用したところ、調査について通報者を待たせ、その間に派遣制度を悪用して通報者を雇止めしました。 {fas}`arrow-right` [リンク](https://minnanosaiban.github.io/press_202411/nttdata.html)
+<span style="font-size:14px;">ＮＴＴデータの派遣社員がセクハラを受け、内部通報窓口を利用したところ、調査について通報者を待たせ、その間に派遣制度を悪用して通報者を雇止めしました。</span> {fas}`arrow-right`　[リンク](https://minnanosaiban.github.io/press_202411/nttdata.html)
 
 :::
 
@@ -58,7 +58,7 @@
 
 ^^^
 
-ＥＮＥＯＳの社員が上司に相談しても解決できなかった業務上の問題について内部通報窓口を利用したところ、ＥＮＥＯＳは海外子会社を使って問題を隠蔽しました。 {fas}`arrow-right` [リンク](https://minnanosaiban.github.io/press_202411/eneos.html)
+<span style="font-size:14px;">ＥＮＥＯＳの社員が上司に相談しても解決できなかった業務上の問題について内部通報窓口を利用したところ、ＥＮＥＯＳは海外子会社を使って問題を隠蔽しました。</span> {fas}`arrow-right`　[リンク](https://minnanosaiban.github.io/press_202411/eneos.html)
 :::
 
 ::::
