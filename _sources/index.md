@@ -3,7 +3,7 @@
 ## プレスリリースの内容
 ---
 
-[<span style="color: #8045e5;"><i class="fa-regular fa-file-pdf fa-3x"></i></span>](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf)　プレスリリースは、[ＰＤＦ](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf) の用意があります。
+[<span style="color: #8045e5;"><i class="fa-regular fa-file-pdf fa-3x"></i></span>](_static/20241105_press.pdf)　プレスリリースは、[ＰＤＦ](_static/20241105_press.pdf) の用意があります。
 
 本ウェブサイトは、2024年11月7日に司法記者クラブにプレスリリースした内容、及びこれを補足する内容を掲載しています。
 
@@ -24,13 +24,13 @@
 :link-type: doc
 :class-header: bg-light
 
-```{image} https://minnanosaiban.github.io/press_202411/_static/mhlw_logo.png                   
+```{image} _static/mhlw_logo.png                   
 :width: 100px
 ```
 
 ^^^
 
-<span style="font-size:14px;">獨協医科大学埼玉医療センターでは、診療報酬の不正請求が行われています。この不正を厚生労働省にも通報しましたが、その対応については、依然として不透明です。</span> {fas}`arrow-right`　[リンク](https://minnanosaiban.github.io/press_202411/mhlw.html)
+<span style="font-size:14px;">獨協医科大学埼玉医療センターでは、診療報酬の不正請求が行われています。この不正を厚生労働省にも通報しましたが、その対応については、依然として不透明です。</span> {fas}`arrow-right`　[リンク](mhlw.html)
 
 :::
 
@@ -39,13 +39,13 @@
 :link-type: doc
 :class-header: bg-light
 
-```{image} https://minnanosaiban.github.io/press_202411/_static/nttdata_logo.png                   
+```{image} _static/nttdata_logo.png                   
 :width: 100px
 ```
 
 ^^^
 
-<span style="font-size:14px;">ＮＴＴデータの派遣社員がセクハラを受け、内部通報窓口を利用したところ、調査について通報者を待たせ、その間に派遣制度を悪用して通報者を雇止めしました。</span> {fas}`arrow-right`　[リンク](https://minnanosaiban.github.io/press_202411/nttdata.html)
+<span style="font-size:14px;">ＮＴＴデータの派遣社員がセクハラを受け、内部通報窓口を利用したところ、調査について通報者を待たせ、その間に派遣制度を悪用して通報者を雇止めしました。</span> {fas}`arrow-right`　[リンク](nttdata.html)
 
 :::
 
@@ -54,13 +54,13 @@
 :link-type: doc
 :class-header: bg-light
 
-```{image} https://minnanosaiban.github.io/press_202411/_static/eneos_logo.png                   
+```{image} _static/eneos_logo.png                   
 :width: 100px
 ```
 
 ^^^
 
-<span style="font-size:14px;">ＥＮＥＯＳの社員が上司に相談しても解決できなかった業務上の問題について内部通報窓口を利用したところ、ＥＮＥＯＳは海外子会社を使って問題を隠蔽しました。</span> {fas}`arrow-right`　[リンク](https://minnanosaiban.github.io/press_202411/eneos.html)
+<span style="font-size:14px;">ＥＮＥＯＳの社員が上司に相談しても解決できなかった業務上の問題について内部通報窓口を利用したところ、ＥＮＥＯＳは海外子会社を使って問題を隠蔽しました。</span> {fas}`arrow-right`　[リンク](eneos.html)
 
 :::
 
