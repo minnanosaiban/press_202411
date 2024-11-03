@@ -78,3 +78,5 @@
 
 ##
 [![Jupyter Book Badge](https://jupyterbook.org/_images/badge.svg)](https://jupyterbook.org)
+[![MyST Badge](https://myst-parser.readthedocs.io/en/latest/_static/myst_logo.svg)](https://myst-parser.readthedocs.io/en/latest/)
+[![Sphinx Badge](https://www.sphinx-doc.org/en/master/_static/sphinxlogo.png)](https://www.sphinx-doc.org/)
