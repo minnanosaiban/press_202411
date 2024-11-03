@@ -3,7 +3,7 @@
 ## プレスリリースの内容
 ---
 
-<span style="color: #8045e5;">[<i class="fa-regular fa-file-pdf fa-2x"></i>](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf)</span>　プレスリリースは、[ＰＤＦ](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf) の用意があります。
+[<span style="color: #8045e5;"><i class="fa-regular fa-file-pdf fa-2x"></i></span>](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf)　プレスリリースは、[ＰＤＦ](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf) の用意があります。
 
 本ウェブサイトは、2024年11月7日に司法記者クラブにプレスリリースした内容、及びこれを補足する内容を掲載しています。
 
