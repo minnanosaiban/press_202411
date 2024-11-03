@@ -24,3 +24,19 @@ hr {
 p {
   margin-top: 2em;
 }
+a {
+  font-size:14px;
+  color: #579aca; 
+  text-decoration: underline; 
+  text-decoration-color: #579aca;
+}
+a:hover {
+  font-size:14px;
+  color: #8045e5;
+  text-decoration: underline;
+  text-decoration-color: #8045e5;
+}
+strong {
+  font-weight:bold;
+  color:#B33A3A;
+}
