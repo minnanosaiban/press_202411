@@ -19,15 +19,15 @@
 
 :::{card}
 :margin: 3
-:class-body: text-left
+:class-body: text-center
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/mhlw.html
-
+**厚生労働省**
+^^^
 ```{image} https://minnanosaiban.github.io/press_202411/_static/mhlw_logo.png                   
 :width: 100px
 ```
 
-^^^
 獨協医科大学埼玉医療センターでは、診療報酬の不正請求が行われており、厚生労働省にも通報しましたが、どのように対応しているのか不明です。
 +++
 詳しくはこちら {fas}`arrow-right`
@@ -35,15 +35,16 @@
 
 :::{card}
 :margin: 3
-:class-body: text-left
+:class-body: text-center
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/nttdata.html
 
+**ＮＴＴデータ**
+^^^
 ```{image} https://minnanosaiban.github.io/press_202411/_static/nttdata_logo.png                   
 :width: 100px
 ```
 
-^^^
 ＮＴＴデータの派遣社員がセクハラを受け、内部通報窓口に相談したところ、調査をしないまま、派遣制度を悪用して通報者を雇止めしました。
 +++
 詳しくはこちら {fas}`arrow-right`
@@ -51,15 +52,15 @@
 
 :::{card}
 :margin: 3
-:class-body: text-left
+:class-body: text-center
 :class-header: bg-light text-center
 :link: https://minnanosaiban.github.io/press_202411/eneos.html
 
+**ＥＮＥＯＳ**
+^^^
 ```{image} https://minnanosaiban.github.io/press_202411/_static/eneos_logo.png                   
 :width: 100px
 ```
-
-^^^
 
 ＥＮＥＯＳの社員が上司に相談しても解決できなかった業務上の問題を内部通報窓口に相談したところ、海外子会社を使って問題を隠蔽しました。
 +++
@@ -71,9 +72,6 @@
 ## 控訴審判決後のリリース　
 ---
 
-```{raw} html
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">内部通報後に誹謗中傷、パワハラ…勤務先を訴えた女性の主張、二審も認める「同様の事例でも参考に」代理人弁護士が語る“意義”<a href="https://t.co/pCx4zklRa0">https://t.co/pCx4zklRa0</a></p>&mdash; じぇぴ👩🏻‍💻【弁護士JP 公式】 (@ben54jp) <a href="https://twitter.com/ben54jp/status/1814243797087490213?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
 
 
 ##
