@@ -1,4 +1,4 @@
-# <i class="fa-solid fa-magnifying-glass"></i> ＥＮＥＯＳにおける通報に対する隠蔽について
+# <span style="color: #8045e5;"><b>ＥＮＥＯＳ</b></span>における通報に対する隠蔽について
 
 <div class="base">
 

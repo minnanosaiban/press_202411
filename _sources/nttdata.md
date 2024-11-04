@@ -1,4 +1,4 @@
-# <i class="fa-solid fa-magnifying-glass"></i> ＮＴＴデータにおけるセクハラの隠蔽について
+# <span style="color: #8045e5;"><b>ＮＴＴデータ</b></span>におけるセクハラの隠蔽について
 
 
 ## 通報の内容
