@@ -52,6 +52,13 @@ strong {
   margin: 0 auto; /* 中央に配置 */
   text-align: left; /* 左寄せ */
 }
+.bd-sidebar::-webkit-scrollbar {
+  display: none;
+}
+.bd-sidebar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
 
 
 
