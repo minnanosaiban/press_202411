@@ -1,9 +1,9 @@
-# 通報への適切な対応と通報者の保護を訴えるプレスリリースについて
+# <i class="fa-solid fa-location-pin"></i> 通報への適切な対応と通報者の保護を訴えるプレスリリースについて
+
+<div class="base">
 
 ## プレスリリースの内容
 ---
-
-<div class="base">
 
 [<span style="color: #8045e5;"><i class="fa-regular fa-file-pdf fa-3x"></i></span>](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf)　プレスリリースは、[ＰＤＦ](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf) を用意する予定です。
 
@@ -11,15 +11,12 @@
 
 プレスリリースの内容は、官公庁や企業で設置している通報窓口が、実質的に形骸化していること、また、通報者が不利益取り扱いを受けている実情を訴えるものです。
 
-</div>
-
-
 ## 通報窓口による「不正な取扱い」
 ---
 
 詳しくはリンク先に記載しています。
 
-::::{grid} 1 1 2 3
+::::{grid} 1 1 1 1
 :class-container: text-left
 :gutter: 3
 
@@ -70,11 +67,8 @@
 
 ::::
 
-
 ## 通報者への不利益「立証難しい」
 ---
-
-<div class="base">
 
 2024年7月19日の記者会見で、代理人の河野弁護士は次のように述べています。
 
@@ -92,12 +86,8 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">内部通報後に誹謗中傷、パワハラ…勤務先を訴えた女性の主張、二審も認める「同様の事例でも参考に」代理人弁護士が語る“意義”<a href="https://t.co/pCx4zklRa0">https://t.co/pCx4zklRa0</a></p>&mdash; じぇぴ👩🏻‍💻【弁護士JP 公式】 (@ben54jp) <a href="https://twitter.com/ben54jp/status/1814243797087490213?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
 
-</div>
-
 ## 通報窓口の調査「ココが問題」
 ---
-
-<div class="base">
 
 公益通報者保護法では、内部通報制度などの通報窓口の整備を義務付けてはいるものの、内部通報制度の活動で何をどのように調査するかは事業者の裁量に委ねられています。
 
