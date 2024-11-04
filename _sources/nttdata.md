@@ -1,5 +1,6 @@
 # <span style="color: #8045e5;"><b>ＮＴＴデータ</b></span>におけるセクハラの隠蔽について
 
+<div class="base">
 
 ## 通報の内容
 ---
@@ -20,6 +21,7 @@
 ## 経緯　
 ---
 
+</div>
 
 ##
 [![Jupyter Book Badge](https://jupyterbook.org/_images/badge.svg)](https://jupyterbook.org)
