@@ -1,4 +1,4 @@
-# <i class="fa-solid fa-location-pin"></i> 医療センターの診療報酬不正請求の告発について
+# <i class="fa-solid fa-magnifying-glass"></i> 医療センターの診療報酬不正請求の告発について
 
 
 ## 通報の内容

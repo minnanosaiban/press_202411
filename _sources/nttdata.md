@@ -1,4 +1,4 @@
-# <i class="fa-solid fa-location-pin"></i> ＮＴＴデータにおけるセクハラの隠蔽について
+# <i class="fa-solid fa-magnifying-glass"></i> ＮＴＴデータにおけるセクハラの隠蔽について
 
 
 ## 通報の内容

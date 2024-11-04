@@ -1,4 +1,6 @@
-# <i class="fa-solid fa-location-pin"></i> ＥＮＥＯＳにおける通報に対する隠蔽について
+# <i class="fa-solid fa-magnifying-glass"></i> ＥＮＥＯＳにおける通報に対する隠蔽について
+
+<div class="base">
 
 ## 通報の内容
 ---
@@ -55,6 +57,8 @@
 **「広範な業務に対応する知識、経験、コミュニケーション力等を求められ、また、それらを成長させる機会でもある」**
 
 と主張しました。
+
+</div>
 
 ##
 [![Jupyter Book Badge](https://jupyterbook.org/_images/badge.svg)](https://jupyterbook.org)
