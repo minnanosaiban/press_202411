@@ -1,4 +1,4 @@
-# <i class="fa-solid fa-magnifying-glass"></i> 通報への適切な対応と通報者の保護を訴えるプレスリリースについて
+# 通報への適切な対応と通報者の保護を訴えるプレスリリースについて
 
 <div class="base">
 
