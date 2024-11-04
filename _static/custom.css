@@ -41,3 +41,23 @@ strong {
   font-weight:bold;
   color:#B33A3A;
 }
+
+
+
+
+.base {
+  width: 40em; /* 幅を40文字にこてい */
+  margin: 0 auto; /* 中央に配置 */
+  text-align: left; /* 左寄せ */
+}
+
+
+
+
+@media (max-width: 768px) {
+  .base {
+      width: auto; /* 幅を画面に合わせる */
+      margin: 0; /* マージンを無効 */
+      text-align: left; /* 左寄せ */
+  }
+}

@@ -1,13 +1,17 @@
-# ウェブサイトについて
+# 通報への適切な対応と通報者の保護を訴えるプレスリリースについて
 
 ## プレスリリースの内容
 ---
 
-[<span style="color: #8045e5;"><i class="fa-regular fa-file-pdf fa-3x"></i></span>](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf)　プレスリリースは、[ＰＤＦ](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf) の用意があります。
+<div class="base">
+
+[<span style="color: #8045e5;"><i class="fa-regular fa-file-pdf fa-3x"></i></span>](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf)　プレスリリースは、[ＰＤＦ](https://minnanosaiban.github.io/press_202411/_static/20241105_press.pdf) を用意する予定です。
 
 本ウェブサイトは、2024年11月7日に司法記者クラブにプレスリリースした内容、及びこれを補足する内容を掲載しています。
 
 プレスリリースの内容は、官公庁や企業で設置している通報窓口が、実質的に形骸化していること、また、通報者が不利益取り扱いを受けている実情を訴えるものです。
+
+</div>
 
 
 ## 通報窓口による「不正な取扱い」
@@ -70,6 +74,8 @@
 ## 通報者への不利益「立証難しい」
 ---
 
+<div class="base">
+
 2024年7月19日の記者会見で、代理人の河野弁護士は次のように述べています。
 
 「公益通報保護法では、通報を行った人に対して、不利益となる取り扱いをすることはあってはならないとされています。
@@ -80,19 +86,22 @@
 
 今後、同様の事例があった際にも、この流れは参考になるのではないでしょうか」
 
+[内部通報後に誹謗中傷、パワハラ…勤務先を訴えた女性の主張、二審も認める「同様の事例でも参考に」代理人弁護士が語る“意義” | 弁護士JPニュース ](https://www.ben54.jp/news/1341)
 
 ```{raw} html
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">内部通報後に誹謗中傷、パワハラ…勤務先を訴えた女性の主張、二審も認める「同様の事例でも参考に」代理人弁護士が語る“意義”<a href="https://t.co/pCx4zklRa0">https://t.co/pCx4zklRa0</a></p>&mdash; じぇぴ👩🏻‍💻【弁護士JP 公式】 (@ben54jp) <a href="https://twitter.com/ben54jp/status/1814243797087490213?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
 
-
+</div>
 
 ## 通報窓口の調査「ココが問題」
 ---
 
+<div class="base">
+
 公益通報者保護法では、内部通報制度などの通報窓口の整備を義務付けてはいるものの、内部通報制度の活動で何をどのように調査するかは事業者の裁量に委ねられています。
 
-そして、不正があったか否かの結果を通報者に対して伝える際、その判断過程を伝える必要がありません。
+そして、不正があったか否かの結果を通報者に伝える際、その判断過程を伝える必要がありません。
 
 たとえば、ＥＮＥＯＳは、通報者に対する通知や再発防止策等の不実施を問われても、「不正行為等には該当しないと結論づけられたもの」と主張しています。
 
@@ -103,6 +112,8 @@
 **意図的に、事業者が不正行為が確認できない方法で調査をしていたとしても、通報者に調査結果を通知する際に、何を調査したのかを伝える必要はなく、「不正行為ではない」と伝えるだけでいいのです。**
 
 現在の法律の下では、通報に対して適切に対応していないことを通報者に分からないように隠すことが容易に行えますので、内部通報制度に関する法律は課題があります。
+
+</div>
 
 ##
 [![Jupyter Book Badge](https://jupyterbook.org/_images/badge.svg)](https://jupyterbook.org)
